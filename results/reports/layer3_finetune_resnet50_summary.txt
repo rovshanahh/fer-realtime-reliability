@@ -1,0 +1,16 @@
+TAG: layer3_finetune_resnet50
+ACC: 64.86%
+MACRO_F1: 0.6104
+WEIGHTED_F1: 0.6482
+TOP1_ACC: 64.86%
+TOP3_ACC: 91.80%
+
+Per-class (precision / recall / f1):
+- 00 neutral: P=0.4467 R=0.7399 F1=0.5570
+- 01 happy: P=0.8667 R=0.8522 F1=0.8594
+- 02 sad: P=0.3363 R=0.3783 F1=0.3561
+- 03 surprise: P=0.6568 R=0.7101 F1=0.6824
+- 04 fear: P=0.7485 R=0.5273 F1=0.6188
+- 05 disgust: P=0.7429 R=0.4024 F1=0.5220
+- 06 anger: P=0.6375 R=0.6478 F1=0.6426
+- 07 contempt: P=0.6164 R=0.6764 F1=0.6450

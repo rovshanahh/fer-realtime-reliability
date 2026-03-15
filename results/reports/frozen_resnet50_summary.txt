@@ -1,0 +1,16 @@
+TAG: frozen_resnet50
+ACC: 34.15%
+MACRO_F1: 0.2743
+WEIGHTED_F1: 0.3080
+TOP1_ACC: 34.15%
+TOP3_ACC: 67.90%
+
+Per-class (precision / recall / f1):
+- 00 neutral: P=0.3828 R=0.1588 F1=0.2245
+- 01 happy: P=0.4079 R=0.8491 F1=0.5511
+- 02 sad: P=0.0702 R=0.2383 F1=0.1085
+- 03 surprise: P=0.3556 R=0.3846 F1=0.3695
+- 04 fear: P=0.5173 R=0.1862 F1=0.2738
+- 05 disgust: P=0.3716 R=0.0327 F1=0.0602
+- 06 anger: P=0.3762 R=0.3576 F1=0.3666
+- 07 contempt: P=0.3899 R=0.1737 F1=0.2403
