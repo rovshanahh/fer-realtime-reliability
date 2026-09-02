@@ -1,35 +1,3 @@
-'''from dataclasses import dataclass
-
-@dataclass
-class FERConfig:
-    def __init__(self):
-        # ----- model / dataset -----
-        self.num_classes = 8
-        self.class_names = [
-            "neutral",
-            "happy",
-            "sad",
-            "surprise",
-            "fear",
-            "disgust",
-            "anger",
-            "contempt"
-        ]
-
-        # ----- image preprocessing -----
-        self.input_size = 224
-        self.imagenet_mean = [0.485, 0.456, 0.406]
-        self.imagenet_std = [0.229, 0.224, 0.225]
-
-        # ----- runtime -----
-        self.cam_index = 0
-
-        # ----- smoothing params -----
-        self.ema_alpha = 0.6
-        self.voting_window = 7
-        self.stable_k = 5'''
-
-
 from __future__ import annotations
 
 from dataclasses import dataclass, field
@@ -62,8 +30,8 @@ class FERConfig:
     cam_index: int = 0
 
     # ----- smoothing params -----
-    ema_alpha: float = 0.6
-    voting_window: int = 7
+    ema_alpha: float = 0.4
+    voting_window: int = 5
     stable_k: int = 5
 
     def __post_init__(self) -> None:

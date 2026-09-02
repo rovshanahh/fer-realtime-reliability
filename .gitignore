@@ -1,3 +1,17 @@
-checkpoints/
-results/checkpoints/
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
 .venv/
+
+# Backup files
+*_backup.py
+results_backup_original/
+
+# Temporary test output
+test_run/

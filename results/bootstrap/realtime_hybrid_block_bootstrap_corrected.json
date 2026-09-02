@@ -1,0 +1,110 @@
+{
+  "method": "boundary-aware moving-block bootstrap",
+  "results": [
+    {
+      "log_file": "idap_realtime_bootstrap/logs/S7_neutral_sad_hybrid_bootstrap_haar_hybrid.csv",
+      "num_frames": 647,
+      "bootstrap_iterations": 2000,
+      "confidence_level": 0.95,
+      "block_size_frames": 30,
+      "seed": 123,
+      "boundary_handling": "Temporal differences are calculated within sampled blocks only. Transitions between independently sampled blocks are excluded.",
+      "metrics": {
+        "LFR": {
+          "point_estimate": 0.015479876160990712,
+          "bootstrap_mean": 0.013396799999999999,
+          "ci_lower": 0.0032,
+          "ci_upper": 0.0272
+        },
+        "MSL": {
+          "point_estimate": 58.81818181818182,
+          "bootstrap_mean": 86.90763984949183,
+          "ci_lower": 34.838890324804005,
+          "ci_upper": 210.9415753781951
+        },
+        "PJ_L1": {
+          "point_estimate": 0.030959752321981424,
+          "bootstrap_mean": 0.026793599999999997,
+          "ci_lower": 0.0064,
+          "ci_upper": 0.0544
+        },
+        "FDDR": {
+          "point_estimate": 0.0,
+          "bootstrap_mean": 0.0,
+          "ci_lower": 0.0,
+          "ci_upper": 0.0
+        }
+      }
+    },
+    {
+      "log_file": "idap_realtime_bootstrap/logs/S8_neutral_surprise_hybrid_bootstrap_haar_hybrid.csv",
+      "num_frames": 684,
+      "bootstrap_iterations": 2000,
+      "confidence_level": 0.95,
+      "block_size_frames": 30,
+      "seed": 124,
+      "boundary_handling": "Temporal differences are calculated within sampled blocks only. Transitions between independently sampled blocks are excluded.",
+      "metrics": {
+        "LFR": {
+          "point_estimate": 0.03367496339677892,
+          "bootstrap_mean": 0.03352874432677761,
+          "ci_lower": 0.018154311649016642,
+          "ci_upper": 0.049924357034795766
+        },
+        "MSL": {
+          "point_estimate": 28.5,
+          "bootstrap_mean": 30.514460522114657,
+          "ci_lower": 19.48810344827586,
+          "ci_upper": 51.04708140453878
+        },
+        "PJ_L1": {
+          "point_estimate": 0.06734992679355783,
+          "bootstrap_mean": 0.06705748865355522,
+          "ci_lower": 0.036308623298033284,
+          "ci_upper": 0.09984871406959153
+        },
+        "FDDR": {
+          "point_estimate": 0.0,
+          "bootstrap_mean": 0.0,
+          "ci_lower": 0.0,
+          "ci_upper": 0.0
+        }
+      }
+    },
+    {
+      "log_file": "idap_realtime_bootstrap/logs/S9_happy_neutral_hybrid_bootstrap_haar_hybrid.csv",
+      "num_frames": 580,
+      "bootstrap_iterations": 2000,
+      "confidence_level": 0.95,
+      "block_size_frames": 30,
+      "seed": 125,
+      "boundary_handling": "Temporal differences are calculated within sampled blocks only. Transitions between independently sampled blocks are excluded.",
+      "metrics": {
+        "LFR": {
+          "point_estimate": 0.015544041450777202,
+          "bootstrap_mean": 0.01619017857142857,
+          "ci_lower": 0.0035714285714285713,
+          "ci_upper": 0.033928571428571426
+        },
+        "MSL": {
+          "point_estimate": 58.0,
+          "bootstrap_mean": 71.88126811965647,
+          "ci_lower": 28.094455496929335,
+          "ci_upper": 189.0570430733411
+        },
+        "PJ_L1": {
+          "point_estimate": 0.031088082901554404,
+          "bootstrap_mean": 0.03238035714285714,
+          "ci_lower": 0.007142857142857143,
+          "ci_upper": 0.06785714285714285
+        },
+        "FDDR": {
+          "point_estimate": 0.0,
+          "bootstrap_mean": 0.0,
+          "ci_lower": 0.0,
+          "ci_upper": 0.0
+        }
+      }
+    }
+  ]
+}

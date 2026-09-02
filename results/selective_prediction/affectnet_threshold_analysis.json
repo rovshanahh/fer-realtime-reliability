@@ -1,0 +1,67 @@
+{
+  "num_samples": 12596,
+  "baseline_accuracy": 0.6486186090822483,
+  "baseline_macro_f1": 0.6104125497612891,
+  "results": [
+    {
+      "threshold": 0.0,
+      "total_samples": 12596,
+      "accepted_samples": 12596,
+      "abstained_samples": 0,
+      "coverage": 1.0,
+      "abstention_rate": 0.0,
+      "selective_accuracy": 0.6486186090822483,
+      "selective_macro_f1": 0.6104125497612891
+    },
+    {
+      "threshold": 0.5,
+      "total_samples": 12596,
+      "accepted_samples": 10286,
+      "abstained_samples": 2310,
+      "coverage": 0.8166084471260717,
+      "abstention_rate": 0.18339155287392828,
+      "selective_accuracy": 0.7142718257826172,
+      "selective_macro_f1": 0.6679366507256752
+    },
+    {
+      "threshold": 0.6,
+      "total_samples": 12596,
+      "accepted_samples": 8703,
+      "abstained_samples": 3893,
+      "coverage": 0.6909336297237219,
+      "abstention_rate": 0.30906637027627815,
+      "selective_accuracy": 0.7535332643915891,
+      "selective_macro_f1": 0.7017309531513142
+    },
+    {
+      "threshold": 0.7,
+      "total_samples": 12596,
+      "accepted_samples": 7187,
+      "abstained_samples": 5409,
+      "coverage": 0.5705779612575421,
+      "abstention_rate": 0.4294220387424579,
+      "selective_accuracy": 0.7960205927368861,
+      "selective_macro_f1": 0.7367119698318016
+    },
+    {
+      "threshold": 0.8,
+      "total_samples": 12596,
+      "accepted_samples": 5592,
+      "abstained_samples": 7004,
+      "coverage": 0.44395046046363923,
+      "abstention_rate": 0.5560495395363607,
+      "selective_accuracy": 0.8497854077253219,
+      "selective_macro_f1": 0.7832058154985578
+    },
+    {
+      "threshold": 0.9,
+      "total_samples": 12596,
+      "accepted_samples": 3636,
+      "abstained_samples": 8960,
+      "coverage": 0.2886630676405208,
+      "abstention_rate": 0.7113369323594791,
+      "selective_accuracy": 0.9092409240924092,
+      "selective_macro_f1": 0.8204397418401852
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "method": "moving-block bootstrap",
+  "results": [
+    {
+      "log_file": "idap_realtime_bootstrap/logs/S7_neutral_sad_hybrid_bootstrap_haar_hybrid.csv",
+      "num_frames": 647,
+      "bootstrap_iterations": 2000,
+      "confidence_level": 0.95,
+      "block_size_frames": 30,
+      "seed": 123,
+      "metrics": {
+        "LFR": {
+          "point_estimate": 0.015479876160990712,
+          "ci_lower": 0.0046439628482972135,
+          "ci_upper": 0.03715170278637771
+        },
+        "MSL": {
+          "point_estimate": 58.81818181818182,
+          "ci_lower": 25.88,
+          "ci_upper": 161.75
+        },
+        "PJ_L1": {
+          "point_estimate": 0.030959752321981424,
+          "ci_lower": 0.009287925696594427,
+          "ci_upper": 0.07430340557275542
+        },
+        "FDDR": {
+          "point_estimate": 0.0,
+          "ci_lower": 0.0,
+          "ci_upper": 0.0
+        }
+      }
+    },
+    {
+      "log_file": "idap_realtime_bootstrap/logs/S8_neutral_surprise_hybrid_bootstrap_haar_hybrid.csv",
+      "num_frames": 684,
+      "bootstrap_iterations": 2000,
+      "confidence_level": 0.95,
+      "block_size_frames": 30,
+      "seed": 124,
+      "metrics": {
+        "LFR": {
+          "point_estimate": 0.03367496339677892,
+          "ci_lower": 0.032210834553440704,
+          "ci_upper": 0.07027818448023426
+        },
+        "MSL": {
+          "point_estimate": 28.5,
+          "ci_lower": 13.959183673469388,
+          "ci_upper": 29.73913043478261
+        },
+        "PJ_L1": {
+          "point_estimate": 0.06734992679355783,
+          "ci_lower": 0.06442166910688141,
+          "ci_upper": 0.14055636896046853
+        },
+        "FDDR": {
+          "point_estimate": 0.0,
+          "ci_lower": 0.0,
+          "ci_upper": 0.0
+        }
+      }
+    },
+    {
+      "log_file": "idap_realtime_bootstrap/logs/S9_happy_neutral_hybrid_bootstrap_haar_hybrid.csv",
+      "num_frames": 580,
+      "bootstrap_iterations": 2000,
+      "confidence_level": 0.95,
+      "block_size_frames": 30,
+      "seed": 125,
+      "metrics": {
+        "LFR": {
+          "point_estimate": 0.015544041450777202,
+          "ci_lower": 0.017271157167530225,
+          "ci_upper": 0.05181347150259067
+        },
+        "MSL": {
+          "point_estimate": 58.0,
+          "ci_lower": 18.70967741935484,
+          "ci_upper": 52.72727272727273
+        },
+        "PJ_L1": {
+          "point_estimate": 0.031088082901554404,
+          "ci_lower": 0.03454231433506045,
+          "ci_upper": 0.10362694300518134
+        },
+        "FDDR": {
+          "point_estimate": 0.0,
+          "ci_lower": 0.0,
+          "ci_upper": 0.0
+        }
+      }
+    }
+  ]
+}

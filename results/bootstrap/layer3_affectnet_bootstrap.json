@@ -1,0 +1,22 @@
+{
+  "num_samples": 12596,
+  "bootstrap_iterations": 2000,
+  "confidence_level": 0.95,
+  "seed": 123,
+  "num_bins": 15,
+  "accuracy": {
+    "point_estimate": 0.6486186090822483,
+    "ci_lower": 0.6401238488409019,
+    "ci_upper": 0.6568751984757065
+  },
+  "macro_f1": {
+    "point_estimate": 0.6104125497612891,
+    "ci_lower": 0.6012222422653227,
+    "ci_upper": 0.6193471145312228
+  },
+  "ece": {
+    "point_estimate": 0.07841593446254393,
+    "ci_lower": 0.07152044979648982,
+    "ci_upper": 0.08639260716020598
+  }
+}

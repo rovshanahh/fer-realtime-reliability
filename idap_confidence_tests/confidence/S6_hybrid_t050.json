@@ -1,0 +1,8 @@
+{
+  "threshold": 0.5,
+  "valid_frames": 599,
+  "mean_confidence": 0.7762952420701175,
+  "coverage": 0.9616026711185309,
+  "abstention_rate": 0.038397328881469114,
+  "low_confidence_rate": 0.038397328881469114
+}
