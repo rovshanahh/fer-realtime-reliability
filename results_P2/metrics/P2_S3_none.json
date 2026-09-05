@@ -1,0 +1,20 @@
+{
+  "participant": "P2",
+  "scenario": "S3",
+  "method": "none",
+  "frames": 598,
+  "LFR": 0.05739514348785872,
+  "MSL": 16.814814814814813,
+  "PJ_L1": 0.2849215995551513,
+  "FDDR": 0.24080267558528423,
+  "RD_frames": 0,
+  "frame_acc": 0.9645390070921985,
+  "pre_acc": 0.9858156028368794,
+  "post_acc": 0.9539007092198581,
+  "n_scored": 423,
+  "mean_conf": 0.7006598319448039,
+  "avg_FPS": 6.7258738784617105,
+  "change_frame": 300,
+  "source": "neutral",
+  "target": "happy"
+}

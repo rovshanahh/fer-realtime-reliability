@@ -1,0 +1,20 @@
+{
+  "participant": "P2",
+  "scenario": "S4",
+  "method": "voting",
+  "frames": 575,
+  "LFR": 0.10801393728222997,
+  "MSL": 9.126984126984127,
+  "PJ_L1": 0.28843533480053163,
+  "FDDR": 0.0,
+  "RD_frames": null,
+  "frame_acc": 0.4724264705882353,
+  "pre_acc": 0.8982456140350877,
+  "post_acc": 0.003861003861003861,
+  "n_scored": 544,
+  "mean_conf": 0.37810816575651585,
+  "avg_FPS": 5.916238164315242,
+  "change_frame": 300,
+  "source": "neutral",
+  "target": "happy"
+}

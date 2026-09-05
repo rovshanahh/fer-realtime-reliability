@@ -1,0 +1,20 @@
+{
+  "participant": "P2",
+  "scenario": "S8",
+  "method": "hybrid",
+  "frames": 602,
+  "LFR": 0.004991680532445923,
+  "MSL": 150.5,
+  "PJ_L1": 0.03147518963136825,
+  "FDDR": 0.0,
+  "RD_frames": 0,
+  "frame_acc": 0.9877408056042032,
+  "pre_acc": 0.9754385964912281,
+  "post_acc": 1.0,
+  "n_scored": 571,
+  "mean_conf": 0.8115778840531672,
+  "avg_FPS": 5.444284699271499,
+  "change_frame": 300,
+  "source": "neutral",
+  "target": "surprise"
+}

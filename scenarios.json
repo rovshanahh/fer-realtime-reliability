@@ -1,0 +1,58 @@
+{
+  "_aciklama": "Her senaryo icin gecis karesi ve ifade etiketleri. 20 saniyelik kayitta 10. saniyede degisim varsa, 30 FPS'te change_frame = 300, 60 FPS'te 600. Kendi videonun gercek FPS'ini run_all.py ekrana basiyor, ona gore ayarla. Etiketler: neutral happy sad surprise fear disgust anger contempt",
+
+  "S1": {
+    "kosul": "Onden bakis, iyi isik",
+    "change_frame": 300,
+    "source_label": "neutral",
+    "target_label": "happy"
+  },
+  "S2": {
+    "kosul": "Los veya yandan isik",
+    "change_frame": 300,
+    "source_label": "neutral",
+    "target_label": "happy"
+  },
+  "S3": {
+    "kosul": "Basi yana cevir, onden bakma",
+    "change_frame": 300,
+    "source_label": "neutral",
+    "target_label": "happy"
+  },
+  "S4": {
+    "kosul": "Kismi kapatma, el veya gozluk yuzun bir kismini kapatsin",
+    "change_frame": 300,
+    "source_label": "neutral",
+    "target_label": "happy"
+  },
+  "S5": {
+    "kosul": "Dogal konusma ve kafa hareketi",
+    "change_frame": 300,
+    "source_label": "neutral",
+    "target_label": "happy"
+  },
+  "S6": {
+    "kosul": "Kontrollu gecis, onden bakis iyi isik",
+    "change_frame": 300,
+    "source_label": "neutral",
+    "target_label": "happy"
+  },
+  "S7": {
+    "kosul": "Kontrollu gecis",
+    "change_frame": 300,
+    "source_label": "neutral",
+    "target_label": "sad"
+  },
+  "S8": {
+    "kosul": "Kontrollu gecis",
+    "change_frame": 300,
+    "source_label": "neutral",
+    "target_label": "surprise"
+  },
+  "S9": {
+    "kosul": "Kontrollu gecis",
+    "change_frame": 300,
+    "source_label": "happy",
+    "target_label": "neutral"
+  }
+}

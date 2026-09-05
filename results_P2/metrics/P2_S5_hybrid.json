@@ -1,0 +1,20 @@
+{
+  "participant": "P2",
+  "scenario": "S5",
+  "method": "hybrid",
+  "frames": 600,
+  "LFR": 0.0651085141903172,
+  "MSL": 15.0,
+  "PJ_L1": 0.08658255263189847,
+  "FDDR": 0.0,
+  "RD_frames": 0,
+  "frame_acc": 0.5553602811950791,
+  "pre_acc": 0.6701754385964912,
+  "post_acc": 0.44014084507042256,
+  "n_scored": 569,
+  "mean_conf": 0.5536188547228345,
+  "avg_FPS": 5.647057683080356,
+  "change_frame": 300,
+  "source": "neutral",
+  "target": "happy"
+}

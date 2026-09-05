@@ -1,0 +1,20 @@
+{
+  "participant": "P2",
+  "scenario": "S8",
+  "method": "voting",
+  "frames": 602,
+  "LFR": 0.018302828618968387,
+  "MSL": 50.166666666666664,
+  "PJ_L1": 0.14865291542756887,
+  "FDDR": 0.0,
+  "RD_frames": 0,
+  "frame_acc": 0.9772329246935202,
+  "pre_acc": 0.9543859649122807,
+  "post_acc": 1.0,
+  "n_scored": 571,
+  "mean_conf": 0.8266797877625374,
+  "avg_FPS": 5.444284699271499,
+  "change_frame": 300,
+  "source": "neutral",
+  "target": "surprise"
+}

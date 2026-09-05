@@ -1,0 +1,20 @@
+{
+  "participant": "P2",
+  "scenario": "S7",
+  "method": "voting",
+  "frames": 612,
+  "LFR": 0.04582651391162029,
+  "MSL": 21.103448275862068,
+  "PJ_L1": 0.24307463852191,
+  "FDDR": 0.0,
+  "RD_frames": 0,
+  "frame_acc": 0.5783132530120482,
+  "pre_acc": 0.9122807017543859,
+  "post_acc": 0.25675675675675674,
+  "n_scored": 581,
+  "mean_conf": 0.6851256966493489,
+  "avg_FPS": 5.485301253151873,
+  "change_frame": 300,
+  "source": "neutral",
+  "target": "sad"
+}

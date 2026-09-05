@@ -1,0 +1,20 @@
+{
+  "participant": "P1",
+  "scenario": "S6",
+  "method": "ema",
+  "frames": 599,
+  "LFR": 0.0016722408026755853,
+  "MSL": 299.5,
+  "PJ_L1": 0.026967423084851054,
+  "FDDR": 0.0,
+  "RD_frames": 4,
+  "frame_acc": 1.0,
+  "pre_acc": 1.0,
+  "post_acc": 1.0,
+  "n_scored": 568,
+  "mean_conf": 0.8080671774744529,
+  "avg_FPS": 6.263364673506534,
+  "change_frame": 277,
+  "source": "neutral",
+  "target": "happy"
+}

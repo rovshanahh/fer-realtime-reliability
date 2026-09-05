@@ -1,0 +1,1502 @@
+{
+  "per_method": [
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "method": "none",
+      "metric": "LFR",
+      "estimate": 0.032667876588021776,
+      "boot_mean": 0.03186842105263158,
+      "lo": 0.010889292196007259,
+      "hi": 0.056261343012704176
+    },
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "method": "none",
+      "metric": "MSL",
+      "estimate": 15.405405405405405,
+      "boot_mean": 16.100237982493585,
+      "lo": 11.4,
+      "hi": 22.8
+    },
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "method": "none",
+      "metric": "PJ_L1",
+      "estimate": 0.14273217673321237,
+      "boot_mean": 0.13700562678943737,
+      "lo": 0.09227176671098003,
+      "hi": 0.18030030595508165
+    },
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "method": "none",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "method": "ema",
+      "metric": "LFR",
+      "estimate": 0.0018148820326678765,
+      "boot_mean": 0.001733212341197822,
+      "lo": 0.0,
+      "hi": 0.0054446460980036296
+    },
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "method": "ema",
+      "metric": "MSL",
+      "estimate": 28.5,
+      "boot_mean": 28.626875352907962,
+      "lo": 25.90909090909091,
+      "hi": 30.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "method": "ema",
+      "metric": "PJ_L1",
+      "estimate": 0.028248311470054445,
+      "boot_mean": 0.02715079527558076,
+      "lo": 0.01755739972050817,
+      "hi": 0.037273127632940106
+    },
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "method": "ema",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "method": "voting",
+      "metric": "LFR",
+      "estimate": 0.010889292196007259,
+      "boot_mean": 0.010558076225045373,
+      "lo": 0.0,
+      "hi": 0.025408348457350273
+    },
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "method": "voting",
+      "metric": "MSL",
+      "estimate": 22.8,
+      "boot_mean": 23.482235532544088,
+      "lo": 17.272727272727273,
+      "hi": 30.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "method": "voting",
+      "metric": "PJ_L1",
+      "estimate": 0.14273217673321237,
+      "boot_mean": 0.13700562678943737,
+      "lo": 0.09227176671098003,
+      "hi": 0.18030030595508165
+    },
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "method": "voting",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "method": "hybrid",
+      "metric": "LFR",
+      "estimate": 0.0018148820326678765,
+      "boot_mean": 0.0017404718693284933,
+      "lo": 0.0,
+      "hi": 0.0054446460980036296
+    },
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "method": "hybrid",
+      "metric": "MSL",
+      "estimate": 28.5,
+      "boot_mean": 28.621938594014683,
+      "lo": 25.90909090909091,
+      "hi": 30.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "method": "hybrid",
+      "metric": "PJ_L1",
+      "estimate": 0.028248311470054445,
+      "boot_mean": 0.02715079527558076,
+      "lo": 0.01755739972050817,
+      "hi": 0.037273127632940106
+    },
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "method": "hybrid",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "method": "none",
+      "metric": "LFR",
+      "estimate": 0.20361247947454844,
+      "boot_mean": 0.18996715927750413,
+      "lo": 0.12967980295566503,
+      "hi": 0.2512315270935961
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "method": "none",
+      "metric": "MSL",
+      "estimate": 4.344827586206897,
+      "boot_mean": 4.701197043068716,
+      "lo": 3.6206896551724137,
+      "hi": 6.3015909090909
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "method": "none",
+      "metric": "PJ_L1",
+      "estimate": 0.2623819599507389,
+      "boot_mean": 0.25916906579357146,
+      "lo": 0.20610351670935964,
+      "hi": 0.3076551952606732
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "method": "none",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "method": "ema",
+      "metric": "LFR",
+      "estimate": 0.03284072249589491,
+      "boot_mean": 0.0312504105090312,
+      "lo": 0.011494252873563218,
+      "hi": 0.05582922824302135
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "method": "ema",
+      "metric": "MSL",
+      "estimate": 15.365853658536585,
+      "boot_mean": 16.23282718186527,
+      "lo": 11.454545454545455,
+      "hi": 22.5
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "method": "ema",
+      "metric": "PJ_L1",
+      "estimate": 0.05299550484400656,
+      "boot_mean": 0.05208434604755337,
+      "lo": 0.04186414020320198,
+      "hi": 0.06104354588341544
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "method": "ema",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "method": "voting",
+      "metric": "LFR",
+      "estimate": 0.08045977011494253,
+      "boot_mean": 0.07675779967159278,
+      "lo": 0.047619047619047616,
+      "hi": 0.10673234811165845
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "method": "voting",
+      "metric": "MSL",
+      "estimate": 9.0,
+      "boot_mean": 9.486906860979165,
+      "lo": 7.325581395348837,
+      "hi": 12.6
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "method": "voting",
+      "metric": "PJ_L1",
+      "estimate": 0.2623819599507389,
+      "boot_mean": 0.25916906579357146,
+      "lo": 0.20610351670935964,
+      "hi": 0.3076551952606732
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "method": "voting",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "method": "hybrid",
+      "metric": "LFR",
+      "estimate": 0.0180623973727422,
+      "boot_mean": 0.015477011494252874,
+      "lo": 0.0049261083743842365,
+      "hi": 0.026272577996715927
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "method": "hybrid",
+      "metric": "MSL",
+      "estimate": 19.6875,
+      "boot_mean": 20.95445631958515,
+      "lo": 17.027027027027028,
+      "hi": 26.25
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "method": "hybrid",
+      "metric": "PJ_L1",
+      "estimate": 0.05299550484400656,
+      "boot_mean": 0.05208434604755337,
+      "lo": 0.04186414020320198,
+      "hi": 0.06104354588341544
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "method": "hybrid",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "method": "none",
+      "metric": "LFR",
+      "estimate": 0.2084639498432602,
+      "boot_mean": 0.1963706896551724,
+      "lo": 0.12695924764890282,
+      "hi": 0.26959247648902823
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "method": "none",
+      "metric": "MSL",
+      "estimate": 4.258064516129032,
+      "boot_mean": 4.608977117256063,
+      "lo": 3.402061855670103,
+      "hi": 6.407766990291262
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "method": "none",
+      "metric": "PJ_L1",
+      "estimate": 0.2408199113636364,
+      "boot_mean": 0.23353572431790753,
+      "lo": 0.18921603697923203,
+      "hi": 0.2738776501445925
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "method": "none",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "method": "ema",
+      "metric": "LFR",
+      "estimate": 0.03605015673981191,
+      "boot_mean": 0.03591379310344828,
+      "lo": 0.018808777429467086,
+      "hi": 0.05642633228840126
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "method": "ema",
+      "metric": "MSL",
+      "estimate": 14.666666666666666,
+      "boot_mean": 14.966000222592461,
+      "lo": 11.379310344827585,
+      "hi": 19.41176470588235
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "method": "ema",
+      "metric": "PJ_L1",
+      "estimate": 0.05319388518808778,
+      "boot_mean": 0.05216705303454545,
+      "lo": 0.042110678184952975,
+      "hi": 0.062299641809952976
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "method": "ema",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "method": "voting",
+      "metric": "LFR",
+      "estimate": 0.08620689655172414,
+      "boot_mean": 0.08370297805642633,
+      "lo": 0.050156739811912224,
+      "hi": 0.1206896551724138
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "method": "voting",
+      "metric": "MSL",
+      "estimate": 8.571428571428571,
+      "boot_mean": 8.959603077090621,
+      "lo": 6.666666666666667,
+      "hi": 12.222222222222221
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "method": "voting",
+      "metric": "PJ_L1",
+      "estimate": 0.2408199113636364,
+      "boot_mean": 0.23353572431790753,
+      "lo": 0.18921603697923203,
+      "hi": 0.2738776501445925
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "method": "voting",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "method": "hybrid",
+      "metric": "LFR",
+      "estimate": 0.029780564263322883,
+      "boot_mean": 0.0279717868338558,
+      "lo": 0.012539184952978056,
+      "hi": 0.045454545454545456
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "method": "hybrid",
+      "metric": "MSL",
+      "estimate": 16.097560975609756,
+      "boot_mean": 16.87130072612535,
+      "lo": 12.941176470588236,
+      "hi": 22.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "method": "hybrid",
+      "metric": "PJ_L1",
+      "estimate": 0.05319388518808778,
+      "boot_mean": 0.05216705303454545,
+      "lo": 0.042110678184952975,
+      "hi": 0.062299641809952976
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "method": "hybrid",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "method": "none",
+      "metric": "LFR",
+      "estimate": 0.15245009074410162,
+      "boot_mean": 0.15563974591651544,
+      "lo": 0.08711433756805807,
+      "hi": 0.23049001814882034
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "method": "none",
+      "metric": "MSL",
+      "estimate": 5.533980582524272,
+      "boot_mean": 5.656374164507117,
+      "lo": 3.904109589041096,
+      "hi": 8.507462686567164
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "method": "none",
+      "metric": "PJ_L1",
+      "estimate": 0.24620871183303092,
+      "boot_mean": 0.24244288795528132,
+      "lo": 0.19480449006079859,
+      "hi": 0.2908080821397459
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "method": "none",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "method": "ema",
+      "metric": "LFR",
+      "estimate": 0.014519056261343012,
+      "boot_mean": 0.016389292196007262,
+      "lo": 0.0054446460980036296,
+      "hi": 0.029038112522686024
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "method": "ema",
+      "metric": "MSL",
+      "estimate": 21.11111111111111,
+      "boot_mean": 20.6333087534058,
+      "lo": 16.285714285714285,
+      "hi": 25.90909090909091
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "method": "ema",
+      "metric": "PJ_L1",
+      "estimate": 0.04982140081669691,
+      "boot_mean": 0.04991593433432849,
+      "lo": 0.03896796040834846,
+      "hi": 0.061484307092105256
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "method": "ema",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "method": "voting",
+      "metric": "LFR",
+      "estimate": 0.06170598911070781,
+      "boot_mean": 0.0660317604355717,
+      "lo": 0.029038112522686024,
+      "hi": 0.1088929219600726
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "method": "voting",
+      "metric": "MSL",
+      "estimate": 10.754716981132075,
+      "boot_mean": 10.760558691609887,
+      "lo": 7.215189873417722,
+      "hi": 16.285714285714285
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "method": "voting",
+      "metric": "PJ_L1",
+      "estimate": 0.24620871183303092,
+      "boot_mean": 0.24244288795528132,
+      "lo": 0.19480449006079859,
+      "hi": 0.2908080821397459
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "method": "voting",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "method": "hybrid",
+      "metric": "LFR",
+      "estimate": 0.012704174228675136,
+      "boot_mean": 0.012617967332123413,
+      "lo": 0.003629764065335753,
+      "hi": 0.02182395644283097
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "method": "hybrid",
+      "metric": "MSL",
+      "estimate": 21.923076923076923,
+      "boot_mean": 22.187814227665093,
+      "lo": 18.37273185483871,
+      "hi": 27.142857142857142
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "method": "hybrid",
+      "metric": "PJ_L1",
+      "estimate": 0.04982140081669691,
+      "boot_mean": 0.04991593433432849,
+      "lo": 0.03896796040834846,
+      "hi": 0.061484307092105256
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "method": "hybrid",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "method": "none",
+      "metric": "LFR",
+      "estimate": 0.023593466424682397,
+      "boot_mean": 0.02443103448275862,
+      "lo": 0.007259528130671506,
+      "hi": 0.04900181488203267
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "method": "none",
+      "metric": "MSL",
+      "estimate": 17.8125,
+      "boot_mean": 18.167885936100188,
+      "lo": 12.391304347826088,
+      "hi": 24.782608695652176
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "method": "none",
+      "metric": "PJ_L1",
+      "estimate": 0.13075536317604353,
+      "boot_mean": 0.12868229737740472,
+      "lo": 0.08686690378130671,
+      "hi": 0.1765610119909256
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "method": "none",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "method": "ema",
+      "metric": "LFR",
+      "estimate": 0.012704174228675136,
+      "boot_mean": 0.010272232304900182,
+      "lo": 0.0018148820326678765,
+      "hi": 0.021778584392014518
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "method": "ema",
+      "metric": "MSL",
+      "estimate": 21.923076923076923,
+      "boot_mean": 23.408778092593828,
+      "lo": 18.387096774193548,
+      "hi": 28.5
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "method": "ema",
+      "metric": "PJ_L1",
+      "estimate": 0.029466530326678758,
+      "boot_mean": 0.028340426400263154,
+      "lo": 0.017904613158802173,
+      "hi": 0.039216564129310336
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "method": "ema",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "method": "voting",
+      "metric": "LFR",
+      "estimate": 0.016333938294010888,
+      "boot_mean": 0.013635208711433757,
+      "lo": 0.003629764065335753,
+      "hi": 0.02722323049001815
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "method": "voting",
+      "metric": "MSL",
+      "estimate": 20.357142857142858,
+      "boot_mean": 21.84043865525378,
+      "lo": 16.764705882352942,
+      "hi": 27.142857142857142
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "method": "voting",
+      "metric": "PJ_L1",
+      "estimate": 0.13075536317604353,
+      "boot_mean": 0.12868229737740472,
+      "lo": 0.08686690378130671,
+      "hi": 0.1765610119909256
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "method": "voting",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "method": "hybrid",
+      "metric": "LFR",
+      "estimate": 0.012704174228675136,
+      "boot_mean": 0.010365698729582576,
+      "lo": 0.0018148820326678765,
+      "hi": 0.021778584392014518
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "method": "hybrid",
+      "metric": "MSL",
+      "estimate": 21.923076923076923,
+      "boot_mean": 23.362843719355013,
+      "lo": 18.387096774193548,
+      "hi": 28.5
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "method": "hybrid",
+      "metric": "PJ_L1",
+      "estimate": 0.029466530326678758,
+      "boot_mean": 0.028340426400263154,
+      "lo": 0.017904613158802173,
+      "hi": 0.039216564129310336
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "method": "hybrid",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "method": "none",
+      "metric": "LFR",
+      "estimate": 0.12931034482758622,
+      "boot_mean": 0.12415775862068966,
+      "lo": 0.07931034482758621,
+      "hi": 0.17413793103448275
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "method": "none",
+      "metric": "MSL",
+      "estimate": 6.315789473684211,
+      "boot_mean": 6.672787997883052,
+      "lo": 4.958677685950414,
+      "hi": 9.090909090909092
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "method": "none",
+      "metric": "PJ_L1",
+      "estimate": 0.2422555972241379,
+      "boot_mean": 0.2424804314542931,
+      "lo": 0.2131204486948276,
+      "hi": 0.27326557329094825
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "method": "none",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "method": "ema",
+      "metric": "LFR",
+      "estimate": 0.03793103448275862,
+      "boot_mean": 0.03709827586206897,
+      "lo": 0.022413793103448276,
+      "hi": 0.05172413793103448
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "method": "ema",
+      "metric": "MSL",
+      "estimate": 14.285714285714286,
+      "boot_mean": 14.619133246366157,
+      "lo": 12.0,
+      "hi": 18.181818181818183
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "method": "ema",
+      "metric": "PJ_L1",
+      "estimate": 0.05389692237931034,
+      "boot_mean": 0.054012808377051726,
+      "lo": 0.04535403118060345,
+      "hi": 0.062272329024137936
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "method": "ema",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "method": "voting",
+      "metric": "LFR",
+      "estimate": 0.04827586206896552,
+      "boot_mean": 0.04718793103448276,
+      "lo": 0.029310344827586206,
+      "hi": 0.06551724137931035
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "method": "voting",
+      "metric": "MSL",
+      "estimate": 12.5,
+      "boot_mean": 12.831069905601023,
+      "lo": 10.344827586206897,
+      "hi": 16.216216216216218
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "method": "voting",
+      "metric": "PJ_L1",
+      "estimate": 0.2422555972241379,
+      "boot_mean": 0.2424804314542931,
+      "lo": 0.2131204486948276,
+      "hi": 0.27326557329094825
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "method": "voting",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "method": "hybrid",
+      "metric": "LFR",
+      "estimate": 0.034482758620689655,
+      "boot_mean": 0.0336198275862069,
+      "lo": 0.020689655172413793,
+      "hi": 0.04827586206896552
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "method": "hybrid",
+      "metric": "MSL",
+      "estimate": 15.0,
+      "boot_mean": 15.359975444628716,
+      "lo": 12.5,
+      "hi": 18.75
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "method": "hybrid",
+      "metric": "PJ_L1",
+      "estimate": 0.05389692237931034,
+      "boot_mean": 0.054012808377051726,
+      "lo": 0.04535403118060345,
+      "hi": 0.062272329024137936
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "method": "hybrid",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "method": "none",
+      "metric": "LFR",
+      "estimate": 0.041379310344827586,
+      "boot_mean": 0.043630172413793106,
+      "lo": 0.015517241379310345,
+      "hi": 0.07931034482758621
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "method": "none",
+      "metric": "MSL",
+      "estimate": 13.636363636363637,
+      "boot_mean": 13.86696851576628,
+      "lo": 9.090909090909092,
+      "hi": 20.689655172413794
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "method": "none",
+      "metric": "PJ_L1",
+      "estimate": 0.1481353594827586,
+      "boot_mean": 0.1475310796371724,
+      "lo": 0.09743276837887929,
+      "hi": 0.19808270944827575
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "method": "none",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "method": "ema",
+      "metric": "LFR",
+      "estimate": 0.0034482758620689655,
+      "boot_mean": 0.005175,
+      "lo": 0.0,
+      "hi": 0.013793103448275862
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "method": "ema",
+      "metric": "MSL",
+      "estimate": 27.272727272727273,
+      "boot_mean": 26.310000544380735,
+      "lo": 21.428571428571427,
+      "hi": 30.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "method": "ema",
+      "metric": "PJ_L1",
+      "estimate": 0.03154344174137931,
+      "boot_mean": 0.031455290589293104,
+      "lo": 0.020198387415086207,
+      "hi": 0.04248657096293103
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "method": "ema",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "method": "voting",
+      "metric": "LFR",
+      "estimate": 0.01896551724137931,
+      "boot_mean": 0.019118965517241376,
+      "lo": 0.005172413793103448,
+      "hi": 0.03620689655172414
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "method": "voting",
+      "metric": "MSL",
+      "estimate": 19.35483870967742,
+      "boot_mean": 19.755383708552696,
+      "lo": 14.634146341463415,
+      "hi": 26.08695652173913
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "method": "voting",
+      "metric": "PJ_L1",
+      "estimate": 0.1481353594827586,
+      "boot_mean": 0.1475310796371724,
+      "lo": 0.09743276837887929,
+      "hi": 0.19808270944827575
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "method": "voting",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "method": "hybrid",
+      "metric": "LFR",
+      "estimate": 0.005172413793103448,
+      "boot_mean": 0.005192241379310345,
+      "lo": 0.0,
+      "hi": 0.013793103448275862
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "method": "hybrid",
+      "metric": "MSL",
+      "estimate": 26.08695652173913,
+      "boot_mean": 26.29989434068629,
+      "lo": 21.428571428571427,
+      "hi": 30.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "method": "hybrid",
+      "metric": "PJ_L1",
+      "estimate": 0.03154344174137931,
+      "boot_mean": 0.031455290589293104,
+      "lo": 0.020198387415086207,
+      "hi": 0.04248657096293103
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "method": "hybrid",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "method": "none",
+      "metric": "LFR",
+      "estimate": 0.030852994555353903,
+      "boot_mean": 0.024898366606170598,
+      "lo": 0.0054446460980036296,
+      "hi": 0.050816696914700546
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "method": "none",
+      "metric": "MSL",
+      "estimate": 15.833333333333334,
+      "boot_mean": 18.12324180572949,
+      "lo": 12.127659574468085,
+      "hi": 25.90909090909091
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "method": "none",
+      "metric": "PJ_L1",
+      "estimate": 0.17371447816696917,
+      "boot_mean": 0.17366879012439201,
+      "lo": 0.15675713774546277,
+      "hi": 0.19092745211569875
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "method": "none",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "method": "ema",
+      "metric": "LFR",
+      "estimate": 0.007259528130671506,
+      "boot_mean": 0.004993647912885663,
+      "lo": 0.0,
+      "hi": 0.014519056261343012
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "method": "ema",
+      "metric": "MSL",
+      "estimate": 24.782608695652176,
+      "boot_mean": 26.45860906639484,
+      "lo": 21.11111111111111,
+      "hi": 30.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "method": "ema",
+      "metric": "PJ_L1",
+      "estimate": 0.035583463829401085,
+      "boot_mean": 0.03511005974803993,
+      "lo": 0.02890391964564428,
+      "hi": 0.04263348985163339
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "method": "ema",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "method": "voting",
+      "metric": "LFR",
+      "estimate": 0.018148820326678767,
+      "boot_mean": 0.015368421052631578,
+      "lo": 0.003629764065335753,
+      "hi": 0.029038112522686024
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "method": "voting",
+      "metric": "MSL",
+      "estimate": 19.655172413793103,
+      "boot_mean": 21.08480288772528,
+      "lo": 16.285714285714285,
+      "hi": 27.142857142857142
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "method": "voting",
+      "metric": "PJ_L1",
+      "estimate": 0.17371447816696917,
+      "boot_mean": 0.17366879012439201,
+      "lo": 0.15675713774546277,
+      "hi": 0.19092745211569875
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "method": "voting",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "method": "hybrid",
+      "metric": "LFR",
+      "estimate": 0.007259528130671506,
+      "boot_mean": 0.005136116152450091,
+      "lo": 0.0,
+      "hi": 0.014519056261343012
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "method": "hybrid",
+      "metric": "MSL",
+      "estimate": 24.782608695652176,
+      "boot_mean": 26.37001417110001,
+      "lo": 21.11111111111111,
+      "hi": 30.0
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "method": "hybrid",
+      "metric": "PJ_L1",
+      "estimate": 0.035583463829401085,
+      "boot_mean": 0.03511005974803993,
+      "lo": 0.02890391964564428,
+      "hi": 0.04263348985163339
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "method": "hybrid",
+      "metric": "FDDR",
+      "estimate": 0.0,
+      "boot_mean": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    }
+  ],
+  "paired_LFR": [
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "contrast": "hybrid-none",
+      "mean_diff": -0.03012794918330309,
+      "lo": -0.05263157894736842,
+      "hi": -0.010889292196007259,
+      "excludes_zero": true
+    },
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "contrast": "hybrid-ema",
+      "mean_diff": 7.2595281306715064e-06,
+      "lo": 0.0,
+      "hi": 0.0018148820326678765,
+      "excludes_zero": false
+    },
+    {
+      "participant": "P1",
+      "scenario": "S6",
+      "contrast": "hybrid-voting",
+      "mean_diff": -0.008817604355716878,
+      "lo": -0.023593466424682394,
+      "hi": 0.0,
+      "excludes_zero": false
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "contrast": "hybrid-none",
+      "mean_diff": -0.17449014778325123,
+      "lo": -0.23152709359605914,
+      "hi": -0.11986863711001643,
+      "excludes_zero": true
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "contrast": "hybrid-ema",
+      "mean_diff": -0.01577339901477833,
+      "lo": -0.031198686371100168,
+      "hi": -0.0032840722495894904,
+      "excludes_zero": true
+    },
+    {
+      "participant": "P1",
+      "scenario": "S7",
+      "contrast": "hybrid-voting",
+      "mean_diff": -0.061280788177339916,
+      "lo": -0.08866995073891626,
+      "hi": -0.034482758620689655,
+      "excludes_zero": true
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "contrast": "hybrid-none",
+      "mean_diff": -0.1683989028213166,
+      "lo": -0.2382445141065831,
+      "hi": -0.10501567398119122,
+      "excludes_zero": true
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "contrast": "hybrid-ema",
+      "mean_diff": -0.007942006269592477,
+      "lo": -0.018808777429467082,
+      "hi": 0.0,
+      "excludes_zero": false
+    },
+    {
+      "participant": "P1",
+      "scenario": "S8",
+      "contrast": "hybrid-voting",
+      "mean_diff": -0.05573119122257053,
+      "lo": -0.08934169278996865,
+      "hi": -0.02660658307210052,
+      "excludes_zero": true
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "contrast": "hybrid-none",
+      "mean_diff": -0.143021778584392,
+      "lo": -0.21234119782214156,
+      "hi": -0.07985480943738657,
+      "excludes_zero": true
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "contrast": "hybrid-ema",
+      "mean_diff": -0.0037713248638838476,
+      "lo": -0.012704174228675136,
+      "hi": 0.0018148820326678756,
+      "excludes_zero": false
+    },
+    {
+      "participant": "P1",
+      "scenario": "S9",
+      "contrast": "hybrid-voting",
+      "mean_diff": -0.05341379310344828,
+      "lo": -0.09437386569872958,
+      "hi": -0.019963702359346643,
+      "excludes_zero": true
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "contrast": "hybrid-none",
+      "mean_diff": -0.014065335753176044,
+      "lo": -0.036297640653357534,
+      "hi": 0.0018148820326678756,
+      "excludes_zero": false
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "contrast": "hybrid-ema",
+      "mean_diff": 9.346642468239564e-05,
+      "lo": -0.0018148820326678774,
+      "hi": 0.0018148820326678791,
+      "excludes_zero": false
+    },
+    {
+      "participant": "P2",
+      "scenario": "S6",
+      "contrast": "hybrid-voting",
+      "mean_diff": -0.00326950998185118,
+      "lo": -0.012704174228675136,
+      "hi": 0.003629764065335753,
+      "excludes_zero": false
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "contrast": "hybrid-none",
+      "mean_diff": -0.09053793103448275,
+      "lo": -0.1327586206896552,
+      "hi": -0.05344827586206897,
+      "excludes_zero": true
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "contrast": "hybrid-ema",
+      "mean_diff": -0.0034784482758620687,
+      "lo": -0.012068965517241376,
+      "hi": 0.0034482758620689655,
+      "excludes_zero": false
+    },
+    {
+      "participant": "P2",
+      "scenario": "S7",
+      "contrast": "hybrid-voting",
+      "mean_diff": -0.013568103448275864,
+      "lo": -0.027586206896551724,
+      "hi": -0.0017241379310344793,
+      "excludes_zero": true
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "contrast": "hybrid-none",
+      "mean_diff": -0.03843793103448276,
+      "lo": -0.07241379310344827,
+      "hi": -0.01206896551724138,
+      "excludes_zero": true
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "contrast": "hybrid-ema",
+      "mean_diff": 1.7241379310344828e-05,
+      "lo": -0.0017241379310344827,
+      "hi": 0.0017241379310344827,
+      "excludes_zero": false
+    },
+    {
+      "participant": "P2",
+      "scenario": "S8",
+      "contrast": "hybrid-voting",
+      "mean_diff": -0.013926724137931033,
+      "lo": -0.027586206896551724,
+      "hi": -0.0034482758620689655,
+      "excludes_zero": true
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "contrast": "hybrid-none",
+      "mean_diff": -0.01976225045372051,
+      "lo": -0.03811252268602541,
+      "hi": -0.0054446460980036296,
+      "excludes_zero": true
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "contrast": "hybrid-ema",
+      "mean_diff": 0.0001424682395644283,
+      "lo": -0.0018148820326678765,
+      "hi": 0.0018148820326678774,
+      "excludes_zero": false
+    },
+    {
+      "participant": "P2",
+      "scenario": "S9",
+      "contrast": "hybrid-voting",
+      "mean_diff": -0.01023230490018149,
+      "lo": -0.02177858439201452,
+      "hi": 0.0,
+      "excludes_zero": false
+    }
+  ]
+}

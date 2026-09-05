@@ -1,0 +1,20 @@
+{
+  "participant": "P2",
+  "scenario": "S6",
+  "method": "voting",
+  "frames": 585,
+  "LFR": 0.015410958904109588,
+  "MSL": 58.5,
+  "PJ_L1": 0.12959836982749387,
+  "FDDR": 0.0,
+  "RD_frames": 0,
+  "frame_acc": 0.9657039711191335,
+  "pre_acc": 0.9333333333333333,
+  "post_acc": 1.0,
+  "n_scored": 554,
+  "mean_conf": 0.8702192531691657,
+  "avg_FPS": 5.626733382860641,
+  "change_frame": 300,
+  "source": "neutral",
+  "target": "happy"
+}

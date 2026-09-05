@@ -1,0 +1,20 @@
+{
+  "participant": "P1",
+  "scenario": "S9",
+  "method": "hybrid",
+  "frames": 580,
+  "LFR": 0.012089810017271158,
+  "MSL": 72.5,
+  "PJ_L1": 0.04989437521473846,
+  "FDDR": 0.0,
+  "RD_frames": null,
+  "frame_acc": null,
+  "pre_acc": null,
+  "post_acc": null,
+  "n_scored": 0,
+  "mean_conf": 0.7261053139561311,
+  "avg_FPS": 4.973568826316104,
+  "change_frame": null,
+  "source": "happy",
+  "target": "neutral"
+}

@@ -1,0 +1,20 @@
+{
+  "participant": "P1",
+  "scenario": "S9",
+  "method": "none",
+  "frames": 580,
+  "LFR": 0.15889464594127806,
+  "MSL": 6.236559139784946,
+  "PJ_L1": 0.24690911938027268,
+  "FDDR": 0.0,
+  "RD_frames": null,
+  "frame_acc": null,
+  "pre_acc": null,
+  "post_acc": null,
+  "n_scored": 0,
+  "mean_conf": 0.7467097254662678,
+  "avg_FPS": 4.973568826316104,
+  "change_frame": null,
+  "source": "happy",
+  "target": "neutral"
+}

@@ -1,0 +1,20 @@
+{
+  "participant": "P1",
+  "scenario": "S8",
+  "method": "ema",
+  "frames": 684,
+  "LFR": 0.03806734992679356,
+  "MSL": 25.333333333333332,
+  "PJ_L1": 0.053205051757775235,
+  "FDDR": 0.0,
+  "RD_frames": null,
+  "frame_acc": null,
+  "pre_acc": null,
+  "post_acc": null,
+  "n_scored": 0,
+  "mean_conf": 0.6704167830712459,
+  "avg_FPS": 4.885984736105166,
+  "change_frame": null,
+  "source": "neutral",
+  "target": "surprise"
+}
